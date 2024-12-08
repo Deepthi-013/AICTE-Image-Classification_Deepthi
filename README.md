@@ -14,7 +14,7 @@ The model leverages Convolutional Neural Networks (CNNs), a specialized architec
 Kaggle Dogs vs. Cats - https://www.kaggle.com/c/dogs-vs-cats/overview
 
 ## App
-Open the app: The app will open in your default web browser. If not, navigate to http://localhost:8501
+Open the app: The app will open in your default web browser. If not, navigate to http://localhost:8501/
 
 ## Key Features
 **Image Classification:** Classifies images into two categories: dogs and cats.
