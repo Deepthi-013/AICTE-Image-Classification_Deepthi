@@ -35,7 +35,7 @@ Open the app: The app will open in your default web browser. If not, navigate to
 ## Start the streamlit app
 
 ```
-streamlit run app.py
+streamlit run ImgCls_App.py
 ```
 
 
