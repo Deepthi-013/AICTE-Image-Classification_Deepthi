@@ -13,9 +13,6 @@ The model leverages Convolutional Neural Networks (CNNs), a specialized architec
 ## Dataset
 Kaggle Dogs vs. Cats - https://www.kaggle.com/c/dogs-vs-cats/overview
 
-## App
-Open the app: The app will open in your default web browser. If not, navigate to http://localhost:8501/
-
 ## Key Features
 **Image Classification:** Classifies images into two categories: dogs and cats.
 
@@ -32,7 +29,11 @@ Open the app: The app will open in your default web browser. If not, navigate to
 
 **Streamlit** for allowing easy deployment of the model interface.
 
+## App
+Open the app: The app will open in your default web browser. If not, navigate to http://localhost:8501/
+
 ## Start the streamlit app
+**Note:** To run the Streamlit app, ensure that you are working within an environment where all required dependencies are installed. Activate the environment and run the following command:
 
 ```
 streamlit run ImgCls_App.py
